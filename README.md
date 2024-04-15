@@ -1,4 +1,4 @@
-### Hi there,I 'm Sameer THOOL 👋
+# Hi 👋,I 'm Sameer Thool
 
 <!--
 **SameerT10/SameerT10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
