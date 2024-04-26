@@ -1,16 +1,14 @@
-                              # Hi 👋,I 'm Sameer Thool
+Hi there, I'm Sameer Thool 👋
+I'm a Python Developer in Capgemini.
+👀 I’m interested in - Python | Django REST |  Web Framework |PySpark.
+💼 3.2 Years of Experience in Python Development.
+📫 You can reach me at my personal Email - sameerthool1004@gmail.com
 
-<!--
-**SameerT10/SameerT10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+       
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
+
+
+ 
